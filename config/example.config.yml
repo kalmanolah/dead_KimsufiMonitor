@@ -1,0 +1,5 @@
+site:
+    name:           Kimsufi Monitor
+    description:    A basic system for notifying you when Kimsufi servers become available
+    author:         Kalman Olah
+    keywords:       kimsufi, dedicated server, OVH, monitor, availability

@@ -1,0 +1,53 @@
+body {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.ks {
+	position: absolute;
+	text-align: center;
+	border: 1px solid #ddd;
+	box-shadow: 0 0 1px #222 inset;
+	background-color: #d9534f;
+}
+
+.ks-2g {
+	left: 0;
+	right: 50%;
+	top: 0;
+	bottom: 50%;
+}
+
+.ks-4g {
+	left: 50%;
+	right: 0;
+	top: 0;
+	bottom: 50%;
+}
+
+.ks-16g {
+	left: 0;
+	right: 50%;
+	top: 50%;
+	bottom: 0;
+}
+
+.ks-24g {
+	left: 50%;
+	right: 0;
+	top: 50%;
+	bottom: 0;
+}
+
+.ks span {
+	position: absolute;
+	top: 50%;
+	margin-top: -36px;
+	font-size: 72px;
+	line-height: 1em;
+	left: 0;
+	right: 0;
+}
+
+.available {
+	background-color: #5cb85c;
+}
