@@ -10,7 +10,7 @@ For some reason I decided building this with Silex would be a good idea.
 Configuration
 -------------
 
-Nope.
+Copy `config/example.config.yml` to `config/config.yml`.
 
 Deploying/setting up
 --------------------
